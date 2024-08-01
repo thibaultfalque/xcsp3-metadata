@@ -1,6 +1,7 @@
 # XCSP Competition Metadata Files
 
 This repository contains the metadata of instances for different [XCSP competitions](https://xcsp.org/competitions/).
+These metadata are used by the tools [Metrics](https://github.com/crilllab/metrics) ([Documentation](https://metrics.readthedocs.io)). 
 
 ## [2023](https://xcsp.org/competitions/#2023)
 
